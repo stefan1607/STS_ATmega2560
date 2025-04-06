@@ -1,3 +1,10 @@
+//
+//      Author: Stefan Soyka
+//      Date: 06/04/2025
+//      Title: Small test program for Arduino Mega2560
+//
+
+
 #include <Arduino.h>
 //#include <avr/io.h>
 //#include <avr/interrupt.h>
